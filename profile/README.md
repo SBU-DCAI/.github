@@ -7,5 +7,5 @@ We are students at Shahid Beheshti University. We are working on DCAI project. T
 * Make a reliable and fast infrastructure for AI researchers to train their models
 * Make researchers able to use special hardware easily
 * Provide a free solution with open source softwares
-* Learn fun stuff
+* Learn new stuff
 
